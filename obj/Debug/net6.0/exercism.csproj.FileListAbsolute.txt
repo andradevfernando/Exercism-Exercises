@@ -1,0 +1,15 @@
+C:\workspace\PROJETOS\exercism\bin\Debug\net6.0\exercism.exe
+C:\workspace\PROJETOS\exercism\bin\Debug\net6.0\exercism.deps.json
+C:\workspace\PROJETOS\exercism\bin\Debug\net6.0\exercism.runtimeconfig.json
+C:\workspace\PROJETOS\exercism\bin\Debug\net6.0\exercism.dll
+C:\workspace\PROJETOS\exercism\bin\Debug\net6.0\ref\exercism.dll
+C:\workspace\PROJETOS\exercism\bin\Debug\net6.0\exercism.pdb
+C:\workspace\PROJETOS\exercism\obj\Debug\net6.0\exercism.csproj.AssemblyReference.cache
+C:\workspace\PROJETOS\exercism\obj\Debug\net6.0\exercism.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\PROJETOS\exercism\obj\Debug\net6.0\exercism.AssemblyInfoInputs.cache
+C:\workspace\PROJETOS\exercism\obj\Debug\net6.0\exercism.AssemblyInfo.cs
+C:\workspace\PROJETOS\exercism\obj\Debug\net6.0\exercism.csproj.CoreCompileInputs.cache
+C:\workspace\PROJETOS\exercism\obj\Debug\net6.0\exercism.dll
+C:\workspace\PROJETOS\exercism\obj\Debug\net6.0\ref\exercism.dll
+C:\workspace\PROJETOS\exercism\obj\Debug\net6.0\exercism.pdb
+C:\workspace\PROJETOS\exercism\obj\Debug\net6.0\exercism.genruntimeconfig.cache

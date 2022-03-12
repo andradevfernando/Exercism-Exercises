@@ -5,7 +5,6 @@ public class Program
 {
     public static void Main()
     {
-        var cavalo = "cavalo";
-        cavalo.SubstringAfter("a");
+        RotationalCipher.Rotate("n", 13);
     }
 }

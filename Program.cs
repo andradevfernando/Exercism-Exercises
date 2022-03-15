@@ -5,6 +5,8 @@ public class Program
 {
     public static void Main()
     {
-        RotationalCipher.Rotate("n", 13);
+        var candidates = new[] { "dog", "goody" };
+        var sut = new Anagram("good");
+        sut.FindAnagrams(candidates);
     }
 }

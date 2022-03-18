@@ -5,6 +5,11 @@ public class Program
 {
     public static void Main()
     {
-        RunLengthEncoding.Decode("2A3B4C");
+
+        const int robotsCount = 200;
+        for (int i = 0; i < robotsCount; i++)
+        {
+            var robot = new Robot();
+        }
     }
 }
